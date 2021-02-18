@@ -1,0 +1,6 @@
+Added Differential Pair: Name=D
+Added Differential Pair: Name=TPIN
+Added Differential Pair: Name=TPOUT
+Added Member To Class: ClassName=U_USB module Member=Component C9 approved sub OK
+Added Member To Class: ClassName=U_USB module Member=Component CON2 microUSB
+Added Member To Class: ClassName=U_USB module Member=Component IC3 CP2102

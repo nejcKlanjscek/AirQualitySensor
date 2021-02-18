@@ -1,0 +1,20 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Air quality sensor.PcbDoc   13. 02. 2021  20:51:00
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Air quality sensor.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.3mm)                                             Round             33        PTH        0.00inch (0.00mm)
+T2      16mil (0.399mm)                                           Round             58        PTH        0.00inch (0.00mm)
+T3      24mil (0.599mm)                                           Round             10        PTH        0.00inch (0.00mm)
+T4      34mil (0.851mm)                                           Round             2         PTH        0.00inch (0.00mm)
+T5      59mil (1.501mm)                                           Round             2         PTH        0.00inch (0.00mm)
+T6      118mil (3mm)                                              Round             2         PTH        0.00inch (0.00mm)
+T7      79mil (1.999mm)                                           Round             2         NPTH       0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              109
+
+Total Processing Time (hh:mm:ss) : 00:00:01

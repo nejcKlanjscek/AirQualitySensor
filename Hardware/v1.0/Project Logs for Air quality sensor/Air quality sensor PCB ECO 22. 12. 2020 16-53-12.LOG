@@ -1,0 +1,17 @@
+Added Component: Designator=CON?(HR911105A)
+Added Pin To Net: NetName=NetC1_2 Pin=CON?-4
+Added Pin To Net: NetName=NetC1_2 Pin=CON?-5
+Added Pin To Net: NetName=LEDB Pin=CON?-12
+Added Pin To Net: NetName=NetCON?_1 Pin=CON?-1
+Added Net: Name=NetCON?_1
+Added Pin To Net: NetName=NetCON?_2 Pin=CON?-2
+Added Net: Name=NetCON?_2
+Added Pin To Net: NetName=NetCON?_3 Pin=CON?-3
+Added Net: Name=NetCON?_3
+Added Pin To Net: NetName=NetCON?_6 Pin=CON?-6
+Added Net: Name=NetCON?_6
+Added Pin To Net: NetName=NetCON?_10 Pin=CON?-10
+Added Net: Name=NetCON?_10
+Added Pin To Net: NetName=NetCON?_11 Pin=CON?-11
+Added Net: Name=NetCON?_11
+Added Member To Class: ClassName=U_Ethernet module Member=Component CON? HR911105A

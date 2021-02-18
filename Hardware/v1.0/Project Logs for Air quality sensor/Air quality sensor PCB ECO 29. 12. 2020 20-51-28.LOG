@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=GND Pin=R18-1
+Removed Pin From Net: NetName=GND Pin=R19-1
+Removed Member From Class: ClassName=U_USB module Member=R18
+Removed Member From Class: ClassName=U_USB module Member=R19
+Added Component: Designator=CON2(micro-USB-HRS-ZX62D-B-5PA8)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.farnell.com/datasheets/1693470.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.farnell.com/datasheets/1693470.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2300438"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=CON2-0
+Added Pin To Net: NetName=GND Pin=CON2-0
+Added Pin To Net: NetName=GND Pin=CON2-0
+Added Pin To Net: NetName=GND Pin=CON2-0
+Added Pin To Net: NetName=GND Pin=CON2-0
+Added Pin To Net: NetName=GND Pin=CON2-0
+Added Pin To Net: NetName=+5V Pin=CON2-1
+Added Pin To Net: NetName=D_N Pin=CON2-2
+Added Pin To Net: NetName=D_P Pin=CON2-3
+Added Pin To Net: NetName=GND Pin=CON2-5
+Added Differential Pair: Name=TPIN
+Added Differential Pair: Name=TPOUT
+Added Member To Class: ClassName=U_USB module Member=Component CON2 microUSB
+Added Member To Class: ClassName=U_Power managment Member=Component L2 1.5µH

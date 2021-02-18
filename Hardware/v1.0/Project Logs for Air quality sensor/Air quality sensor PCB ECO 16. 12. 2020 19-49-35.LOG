@@ -1,0 +1,11 @@
+Added Component: Designator=IC?(SOP65P780X200-28N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "ENC28J60T-I/SS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/enc28j60t-iss/microchip-technology"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://mouser.componentsearchengine.com/Datasheets/2/ENC28J60T-I_SS.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ENC28J60T-I/SS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "579-ENC28J60T-I/SS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Microchip-Technology/ENC28J60T-I-SS?qs=0swJU7D5CoWRYqX2omYpJQ%3D%3D"; VariantName = "[No Variations]"
+Added Class: Name=U_Ethernet module
+Added Room: Name=U_Ethernet module

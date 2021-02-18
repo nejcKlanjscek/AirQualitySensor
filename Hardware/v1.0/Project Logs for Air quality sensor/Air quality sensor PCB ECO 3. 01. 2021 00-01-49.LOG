@@ -1,0 +1,16 @@
+Added Component: Designator=CON?(FC68148S_2)
+Add component (AddParameter): Name = "Category"; Value = "Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "CUI Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "PJ-102AH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "PCB mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "CP-102AH-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2.1mm ID, 5.5mm OD"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=CON?-2
+Added Pin To Net: NetName=NetCON?_1 Pin=CON?-1
+Added Pin To Net: NetName=NetCON?_1 Pin=CON?-1
+Added Pin To Net: NetName=NetCON?_1 Pin=CON?-3
+Added Pin To Net: NetName=NetCON?_1 Pin=D1-2
+Added Net: Name=NetCON?_1
+Added Member To Class: ClassName=U_Power managment Member=Component CON? 12V

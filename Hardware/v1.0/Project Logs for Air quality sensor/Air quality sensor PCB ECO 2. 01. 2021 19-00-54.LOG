@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=+3.3V Pin=S1-1
+Removed Pin From Net: NetName=+3.3V Pin=S1-2
+Added Component: Designator=CON3(CONN_PWR_JACK_2.1x5.5mm)
+Add component (AddParameter): Name = "Category"; Value = "Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "CUI Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "PJ-102AH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "PCB mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "CP-102AH-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2.1mm ID, 5.5mm OD"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetCON3_1 Pin=CON3-1
+Added Pin To Net: NetName=GND Pin=CON3-2
+Added Pin To Net: NetName=NetCON3_1 Pin=CON3-3
+Added Pin To Net: NetName=+5V Pin=S1-1
+Added Pin To Net: NetName=+5V Pin=S1-2
+Added Member To Class: ClassName=U_Power managment Member=Component CON3 12V
+Added Member To Class: ClassName=U_Air sensor, SD card Member=Component S1 PMS7003

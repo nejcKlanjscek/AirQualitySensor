@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Air quality sensor.PrjPcb]
+   Generated File[Air quality sensor.TXT]
+   Generated File[Air quality sensor.LDP]
+   Generated File[Air quality sensor.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 20:51:01 On 13. 02. 2021

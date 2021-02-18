@@ -1,0 +1,23 @@
+Added Component: Designator=L2(INDPM6965X300N)
+Add component (AddParameter): Name = "Applications"; Value = "Power Supplies"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.yuden.co.jp/ut/product/pdf/wound02_e.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.yuden.co.jp/ut/product/pdf/wound02_e.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = "900mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current - Saturation"; Value = "900mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current - Temperature Rise"; Value = "900mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DC Resistance (DCR)"; Value = "172.9 mOhm Max"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency - Self Resonant"; Value = "23MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency - Test"; Value = "100kHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Taiyo Yuden"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "CBC3225T100MR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40°C ~ 105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "1210 (3225 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ratings"; Value = "900 mA; 133 mOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "587-1625-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1.5µH"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetIC4_11 Pin=L2-1
+Added Pin To Net: NetName=NetIC4_9 Pin=L2-2
+Added Member To Class: ClassName=U_Power managment Member=Component C10 approved sub OK
+Added Member To Class: ClassName=U_Power managment Member=Component L2 1.5µH

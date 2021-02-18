@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=GND Pin=CON2-1
+Removed Pin From Net: NetName=GND Pin=CON2-1
+Removed Member From Class: ClassName=U_Power managment Member=IC2
+Removed Member From Class: ClassName=U_Power managment Member=R7
+Removed Member From Class: ClassName=U_Air sensor, SD card Member=R9
+Change Component Designator: OldDesignator=CON1 NewDesignator=CON3
+Change Component Designator: OldDesignator=CON2 NewDesignator=CON1
+Change Component Designator: OldDesignator=CON3 NewDesignator=CON2
+Added Pin To Net: NetName=GND Pin=CON1-2
+Added Pin To Net: NetName=GND Pin=CON1-3
+Change Net Name : Old Net Name=NetCON1_2 New Net Name=NetCON3_2
+Change Net Name : Old Net Name=NetCON1_3 New Net Name=NetCON3_3
+Change Net Name : Old Net Name=NetCON3_2 New Net Name=NetCON2_2
+Change Net Name : Old Net Name=NetCON3_3 New Net Name=NetCON2_3
+Change Net Name : Old Net Name=NetCON3_5 New Net Name=NetCON2_5
+Change Net Name : Old Net Name=NetCON3_7 New Net Name=NetCON2_7
+Change Net Name : Old Net Name=NetCON3_9 New Net Name=NetCON2_9
+Added Pin To Net: NetName=NetCON1_1 Pin=CON1-1
+Added Pin To Net: NetName=NetCON1_1 Pin=CON1-1
+Added Pin To Net: NetName=NetCON1_1 Pin=D1-2
+Added Net: Name=NetCON1_1
+Added Member To Class: ClassName=U_Power managment Member=Component C11 approved sub OK
+Added Member To Class: ClassName=U_Power managment Member=Component IC3 TPS630702RNMT
+Added Member To Class: ClassName=U_Power managment Member=Component R16 Thick Film
+Added Member To Class: ClassName=U_Air sensor, SD card Member=Component R20 Thick Film

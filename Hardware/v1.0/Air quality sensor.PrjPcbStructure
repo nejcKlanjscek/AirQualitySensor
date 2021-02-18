@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=Air quality sensor.SchDoc
+Record=SheetSymbol|SourceDocument=Air quality sensor.SchDoc|Designator=U_Air sensor, SD card|SchDesignator=U_Air sensor, SD card|FileName=Air sensor, SD card.SchDoc|SymbolType=Normal|RawFileName=Air sensor, SD card.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Air quality sensor.SchDoc|Designator=U_Power managment|SchDesignator=U_Power managment|FileName=Power managment.SchDoc|SymbolType=Normal|RawFileName=Power managment.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Air quality sensor.SchDoc|Designator=U_USB module|SchDesignator=U_USB module|FileName=USB module.SchDoc|SymbolType=Normal|RawFileName=USB module.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
